@@ -1,6 +1,6 @@
 # Git Tag
 
-Git Tag Creator
+Git Tag Remover
 
 # Prerequisites
 1) Ensure that git account has write permission to target repository
